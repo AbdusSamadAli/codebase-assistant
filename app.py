@@ -39,7 +39,9 @@ if st.button("load repo"):
                     st.session_state.repo_loaded = repo_name
                     st.success(f"loaded {len(docs)} files, {len(chunks)} chunks from {repo_name}")
             except Exception as e:
+                import traceback
                 st.error(f"Error: {e}")
+                st.code(traceback.format_exc())
 
     else:
         st.warning("enter a repo name")
