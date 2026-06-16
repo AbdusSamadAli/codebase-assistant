@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-community
+langchain-classic
+chromadb
+sentence-transformers
+PyGithub
+PyJWT
+groq
+python-dotenv
+streamlit
+datasets
