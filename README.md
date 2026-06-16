@@ -1,4 +1,5 @@
 # 🤖 AI Codebase Assistant
+<img width="386" height="343" alt="rag-repo" src="https://github.com/user-attachments/assets/3b7b8d5d-3e89-4f77-8bde-b440ae017135" />
 
 Ask natural language questions about any public GitHub repository using RAG.
 
@@ -15,14 +16,9 @@ LangChain · ChromaDB · Groq (Llama 3.3) · HuggingFace · Streamlit · PyGithu
 ## Setup
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
-3. Copy `.env.example` to `.env` and fill in your keys
-4. Run: `streamlit run app.py`
+3. Run: `streamlit run app.py`
 
-## Evaluation
-RAGAS evaluation run on encode/httpx:
-- Faithfulness: 0.59
-- Answer Relevancy: 0.75
-- 
+
 ## Live Demo
 https://codebase-assistant-llrvo89tngdveg33mqg7ds.streamlit.app/
 
