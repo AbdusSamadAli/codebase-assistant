@@ -22,6 +22,8 @@ LangChain · ChromaDB · Groq (Llama 3.3) · HuggingFace · Streamlit · PyGithu
 RAGAS evaluation run on encode/httpx:
 - Faithfulness: 0.59
 - Answer Relevancy: 0.75
+- 
+## Live Demo
+https://codebase-assistant-llrvo89tngdveg33mqg7ds.streamlit.app/
 
-Run evaluation: `python evaluate_ragas.py` (requires separate ragas_env)
 
