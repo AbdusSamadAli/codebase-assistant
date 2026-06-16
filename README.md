@@ -1,5 +1,6 @@
 # 🤖 AI Codebase Assistant
-<img width="386" height="343" alt="rag-repo" src="https://github.com/user-attachments/assets/3b7b8d5d-3e89-4f77-8bde-b440ae017135" />
+<img width="901" height="404" alt="rag-repo-white" src="https://github.com/user-attachments/assets/357a73dd-10d4-4f8f-98ba-4ecf1d8ddd3c" />
+
 
 Ask natural language questions about any public GitHub repository using RAG.
 
